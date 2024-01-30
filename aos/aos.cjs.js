@@ -17,6 +17,7 @@ function containsAOSNode(nodes) {
 
     if (currentNode.dataset && currentNode.dataset.aos) {
       return true;
+    }
 
     result = currentNode.children && containsAOSNode(currentNode.children);
 
