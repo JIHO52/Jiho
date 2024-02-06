@@ -984,7 +984,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
  
 .col-md-4 {
-    width: 49.33333% !important;
+    width: 100% !important;
 }
 }
 .fh5co-video .overlay {
